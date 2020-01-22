@@ -6,6 +6,7 @@ Code::Blocks + SFML, 2D multiplayer game
 ## Features
 - Singleplayer survival arena
 - Multiplayer free for all
+- Better than No Man's Sky
 
 ## Uses
 - SFML 2.5.1 (dll)

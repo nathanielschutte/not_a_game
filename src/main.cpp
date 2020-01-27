@@ -5,12 +5,12 @@ using namespace sf;
 
 int main() {
 
-    RenderWindow window(VideoMode(600, 400), "SFML says hello!");
+    RenderWindow window(VideoMode(600, 400), "SFML says hello");
 
     CircleShape shape(100.f);
     shape.setOrigin(10.0f, 10.0f);
     shape.setPosition(0, 150.0f);
-    shape.setFillColor(Color::Green);
+    shape.setFillColor(Color::Red);
 
     Event event;
 

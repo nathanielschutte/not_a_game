@@ -1,0 +1,10 @@
+*.layout
+*.depend
+
+bin/
+obj/
+
+*.exe
+*.dll
+*.o
+*.lib
